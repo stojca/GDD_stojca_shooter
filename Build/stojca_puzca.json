@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "2D Game",
-"dataUrl": "New folder.data.unityweb",
-"wasmCodeUrl": "New folder.wasm.code.unityweb",
-"wasmFrameworkUrl": "New folder.wasm.framework.unityweb",
+"dataUrl": "stojca_puzca.data.unityweb",
+"wasmCodeUrl": "stojca_puzca.wasm.code.unityweb",
+"wasmFrameworkUrl": "stojca_puzca.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
